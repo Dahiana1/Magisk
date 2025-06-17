@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk
 
 ### v29.0
 
